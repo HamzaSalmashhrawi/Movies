@@ -1,0 +1,29 @@
+header{
+  background-color: #A82D21;
+}
+
+h1{
+  color: lightgrey;
+  text-align: center;
+}
+
+h2{
+  color: lightgrey;
+  text-align: center;
+}
+nav ul li a{
+  text-decoration: none;
+}
+
+header p{
+  font-size: 20px;
+  color: lightgrey;
+}
+header img{
+  width: 100%;
+  text-align: center;
+}
+footer{
+ font-size: 20px; 
+ text-align: center;
+}  
